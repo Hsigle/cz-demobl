@@ -1,10 +1,9 @@
 <?php 
 namespace app\index\controller;
 
-class ListArticle
-{
+class Article{
 	public function index(){
-		return view('list');
+		return view('article');
 	}
 }
 ?>

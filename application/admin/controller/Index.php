@@ -1,5 +1,5 @@
 <?php
-namespace app\index\controller;
+namespace app\admin\controller;
 
 class Index
 {
@@ -9,3 +9,4 @@ class Index
     }
 
 }
+?>
